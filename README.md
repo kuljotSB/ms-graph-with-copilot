@@ -11,8 +11,8 @@ This project is a Python application that interacts with the Graph API.
 ## packages and SDK to download
 
 
-- run "pip install -U azure-identity"
-- run "pip install msgraph-sdk"
+- run `pip install -U azure-identity`
+- run `pip install msgraph-sdk`
 
 ## How to Run
 
